@@ -167,5 +167,6 @@ to have any effect."
 (provide 'mode-line-debug)
 ;; Local Variables:
 ;; indent-tabs-mode: nil
+;; lisp-indent-local-overrides: ((cond . 0) (interactive . 0))
 ;; End:
 ;;; mode-line-debug.el ends here
